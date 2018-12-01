@@ -1,0 +1,65 @@
+[
+	{
+		"img": "4.jpg",
+		"title": "Yeah!夜惊喜 激爽一夏",
+		"sales": 9,
+		"time": "小时",
+		"id": "1"
+	},
+	{
+		"img": "18.jpg",
+		"title": "Marc Jacobs 18年春夏新品 首降7折起",
+		"sales": 2,
+		"time": "天",
+		"id": "2"
+	},
+	{
+		"img": "24.jpg",
+		"title": "2.7折起韩国海淘Naning9时尚女装专场",
+		"sales": 9,
+		"time": "天",
+		"id": "3"
+	},
+	{
+		"img": "22.jpg",
+		"title": "1.7折起领40元大额红包-哈森HARSO...",
+		"sales": 2,
+		"time": "天",
+		"id": "4"
+	},
+	{
+		"img": "23.jpg",
+		"title": "1.1折起富铤FORTEI男装专场",
+		"sales": 2,
+		"time": "天",
+		"id": "5"
+	},
+	{
+		"img": "2.jpg",
+		"title": "1折起九阳西厨专场",
+		"sales": 2,
+		"time": "天",
+		"id": "6"
+	},
+	{
+		"img": "1.jpg",
+		"title": "这个夏天白成一道光",
+		"sales": 2,
+		"time": "天",
+		"id": "7"
+	},
+	{
+		"img": "21.jpg",
+		"title": "3折起adidas潮流运动专场",
+		"sales": 2,
+		"time": "天",
+		"id": "8"
+	},
+	{
+		"img": "3.jpg",
+		"title": "3折起菲安妮FION箱包特惠专场",
+		"sales": 1,
+		"time": "天",
+		"id": "9"
+	}
+]

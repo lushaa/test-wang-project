@@ -1,0 +1,263 @@
+{
+	"ad": [
+		{
+			"title": "水感透亮黑面膜礼盒装 21片",
+			"sales": 50,
+			"price": 30,
+			"id": "1",
+			"url": "5.jpg",
+			"originPrice": 359
+		},
+		{
+			"title": "小迷糊玻尿酸竹炭补水明星黑膜 21片 玻尿酸补水黑面膜",
+			"id": "2",
+			"sales": 50,
+			"price": 30,
+			"url": "1.jpg",
+			"originPrice": 299
+		},
+		{
+			"title": "朵拉朵尚 隔离防晒喷雾SPF30 150ml大容量 保湿防紫外线脸部全身喷雾隔离...",
+			"sales": 39,
+			"price": 29,
+			"id": "3",
+			"url": "3.jpg",
+			"originPrice": 228
+		},
+		{
+			"title": "御泥坊清润莹亮黑膜套装21片 补水面膜 保湿 提亮肤色 深层清洁 收缩毛孔",
+			"sales": 67,
+			"price": 47,
+			"id": "4",
+			"url": "2.jpg",
+			"originPrice": 298
+		},
+		{
+			"title": "朵拉朵尚 薏仁保湿补水喷雾300ml送150ml 亮肤补水舒缓肌肤清透定妆温和...",
+			"sales": 72,
+			"price": 52,
+			"id": "5",
+			"url": "4.jpg",
+			"originPrice": 469
+		}
+	],
+	"pd": [
+		{
+			"title": "乐刻 | LEKE 2018夏季新款条纹边微弹男士短袖POLO衫",
+			"sales": 308,
+			"price": 89,
+			"id": "1",
+			"url": "1.jpg",
+			"originPrice": 219
+		},
+		{
+			"title": "奢步士 | 【罗晋明星同款】男款POLO衫气质有型短袖",
+			"id": "2",
+			"sales": 360,
+			"price": 88,
+			"url": "2.jpg",
+			"originPrice": 272
+		},
+		{
+			"title": "佐丹奴 | 2018年新品 佐丹奴 雪花中灰色 拼色拿破仑刺绣修身...",
+			"sales": 190,
+			"price": 160,
+			"id": "3",
+			"url": "3.jpg",
+			"originPrice": 30
+		},
+		{
+			"title": "柒牌 | 夏装 精密绣花商务稳重纯色男士修身短袖POLO衫",
+			"sales": 469,
+			"price": 189,
+			"id": "4",
+			"url": "4.jpg",
+			"originPrice": 280
+		},
+		{
+			"title": "GXG | 休闲男士短袖POLO",
+			"sales": 72,
+			"price": 52,
+			"id": "5",
+			"url": "5.jpg",
+			"originPrice": 20
+		},
+		{
+			"title": "太平鸟 | 2018夏季男款Polo衫风尚系列款",
+			"sales": 428,
+			"price": 259,
+			"id": "6",
+			"url": "6.jpg",
+			"originPrice": 169
+		},
+		{
+			"title": "杰米克 | 舒适透气夏季新款百搭翻领宽松棉质条纹男士短袖T恤",
+			"sales": 599,
+			"price": 138,
+			"id": "7",
+			"url": "7.jpg",
+			"originPrice": 461
+		},
+		{
+			"title": "柒牌 | 夏装 商务休闲提花条纹舒适丝光棉短袖翻领T恤POLO衫",
+			"sales": 339,
+			"price": 139,
+			"id": "8",
+			"url": "8.jpg",
+			"originPrice": 200
+		},
+		{
+			"title": "enk | 【纯棉刺绣】夏季新款潮流花纱翻领精致装饰绣标青年常",
+			"sales": 699,
+			"price": 118,
+			"id": "9",
+			"url": "9.jpg",
+			"originPrice": 511
+		},
+		{
+			"title": "HLA海澜之家 | 2018夏季新品舒适polo衫时尚碎花男士短袖T恤",
+			"price": 158,
+			"sales": 369,
+			"id": "10",
+			"url": "10.jpg",
+			"originPrice": 211
+		},
+		{
+			"title": "杰米克 | 【绣花胸标】夏季爆款休闲翻领合身棉质开叉T恤男",
+			"sales": 369,
+			"price": 128,
+			"id": "11",
+			"url": "11.jpg",
+			"originPrice": 241
+		},
+		{
+			"title": "HLA海澜之家 | 2018夏季新品休闲净色男士短袖T恤polo衫",
+			"sales": 469,
+			"price": 128,
+			"id": "12",
+			"url": "12.jpg",
+			"originPrice": 341
+		},
+		{
+			"title": "拓路者 | 夏季POLO衫纯棉时尚舒适男士t恤青年套头polo衫男",
+			"sales": 359,
+			"price": 70,
+			"id": "13",
+			"url": "13.jpg",
+			"originPrice": 289
+		},
+		{
+			"title": "奢步士 | 2018夏装新品 时尚百搭舒适纯色男士短袖POLO衫",
+			"sales": 288,
+			"price": 79,
+			"id": "14",
+			"url": "14.jpg",
+			"originPrice": 209
+		},
+		{
+			"title": "花花公子 | 2018夏装新款翻领细条纹棉T恤打底衫男士短袖PO",
+			"sales": 999,
+			"price": 197,
+			"id": "15",
+			"url": "15.jpg",
+			"originPrice": 802
+		},
+		{
+			"title": "拓路者 | 夏季polo衫简约休闲男士t恤男士短袖polo翻领男装",
+			"sales": 348,
+			"price": 70,
+			"id": "16",
+			"url": "16.jpg",
+			"originPrice": 279
+		},
+		{
+			"title": "柒红豆 | HOdo/红豆男士丝光珠地工艺翻领撞色印花简约商务休",
+			"sales": 469,
+			"price": 118,
+			"id": "17",
+			"url": "17.jpg",
+			"originPrice": 351
+		},
+		{
+			"title": "杰米克 | 【基础撞色】夏季爆款休闲翻领合身棉质条纹T恤男士",
+			"sales": 439,
+			"price": 138,
+			"id": "18",
+			"url": "18.jpg",
+			"originPrice": 301
+		}
+	],
+	"list": [
+		{
+			"img": "12.jpg",
+			"title": "2018新款春夏女流行斜挎包时尚流苏...",
+			"price": 59,
+			"originPrice": 299,
+			"tcv" : 230,
+			"id": "1"
+		},
+		{
+			"img": "13.jpg",
+			"title": "无钢圈防走光刺绣加厚聚陇文胸胸...",
+			"price": 59,
+			"originPrice": 89,
+			"tcv" : 190,
+			"id": "2"
+		},
+		{
+			"img": "14.jpg",
+			"title": "光面无痕聚拢无钢圈上薄下厚文胸...",
+			"price": 59,
+			"originPrice": 105,
+			"tcv" : 560,
+			"id": "3"
+		}
+	],
+	"fenlei": [
+		{
+			"img": "2.jpg",
+			"title": "春季连衣裙",
+			"id": "1"
+		},
+		{
+			"img": "3.jpg",
+			"title": "T衫",
+			"id": "2"
+		},
+		{
+			"img": "4.jpg",
+			"title": "衬衫",
+			"id": "3"
+		},
+		{
+			"img": "5.jpg",
+			"title": "春季新品",
+			"id": "4"
+		},
+		{
+			"img": "6.jpg",
+			"title": "套装裙",
+			"id": "5"
+		},
+		{
+			"img": "7.jpg",
+			"title": "凉鞋",
+			"id": "6"
+		},
+		{
+			"img": "8.jpg",
+			"title": "短袖T衫",
+			"id": "7"
+		},
+		{
+			"img": "9.jpg",
+			"title": "半身裙",
+			"id": "8"
+		},
+		{
+			"img": "10.jpg",
+			"title": "休闲裤",
+			"id": "9"
+		}
+	]
+}

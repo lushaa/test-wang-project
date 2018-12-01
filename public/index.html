@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="maximum-scale=1,minimum-scale=1,width=device-width,initial-scale=1.0">
+    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+    <title>wjf-project</title>
+  </head>
+  <body>
+    <noscript>
+      <strong>We're sorry but wjf-project doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    </noscript>
+    <div id="app"></div>
+    <template id = "tpl">
+      <div>
+        <div class="header">
+          <div class="zuo">
+            <p class="denglu">登录</p>
+            <input type="text" placeholder="大家正在搜索：护肤" @keyup.enter="showSearchResult" v-model="msg">
+            <div class="span">
+                <p></p>
+                <p></p>
+                <p></p>
+                <p></p>
+            </div>
+          </div>
+        </div>
+        <div class="gouwuche">
+          共计￥{{$store.state.price}}元
+        </div>
+         <router-view></router-view>
+      </div>
+    </template>
+    <!-- built files will be auto injected -->
+  </body>
+</html>
